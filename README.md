@@ -1,7 +1,7 @@
 # Python Microservice Template
 
-This project is a template with best practices for building a python micro-service using Hexagonal Architecture
-for a multi domain.
+This is a template with best practices for building a python micro-service using Hexagonal Architecture
+for a multi domain project.
 
 It includes:
 
